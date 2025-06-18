@@ -69,8 +69,8 @@ Inspirados por la implementación exitosa del reconocimiento facial en grandes e
 
 1.  **Clona este repositorio:**  https://github.com/FrijolitoRaza/TPFinal_FaceRecognition.git
     ```bash
-    git clone [https://github.com/FrijolitoRaza/TPFinal_FaceRecognition.git](https://github.com/FrijolitoRaza/TPFinal_FaceRecognition.git)
-    cd nombre_del_repositorio
+    git clone https://github.com/FrijolitoRaza/TPFinal_FaceRecognition.git
+    cd TPFinal_FaceRecognition
     ```
     
     2.  **Instalar CMake:**
