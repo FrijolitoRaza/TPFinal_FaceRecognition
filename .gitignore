@@ -1,0 +1,36 @@
+# Archivos de caché y compilación de Python
+__pycache__/
+*.pyc
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+*/venv/
+
+# Archivos de Jupyter Notebook
+.ipynb_checkpoints/
+*.bak
+
+# Archivos generados por el proyecto
+attendance.csv # Archivo de registro de asistencia
+
+# Archivos del sistema operativo
+.DS_Store # macOS
+Thumbs.db # Windows
+desktop.ini # Windows
+
+# Archivos específicos de IDE (ej. VS Code, si usas Cursor)
+.vscode/
+
+# Archivos de logs
+*.log
+
+# Si dlib descarga modelos grandes, podrías querer ignorarlos si no quieres versionarlos
+# Aunque face_recognition los gestiona internamente, si los descargas manualmente
+# o si hubiera alguno que fuera externo y grande:
+# *.dat
+# *.weights
