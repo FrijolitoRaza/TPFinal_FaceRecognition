@@ -3,7 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Enabled-brightgreen.svg)
 ![Face Recognition](https://img.shields.io/badge/Face_Recognition-Used-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg) ## 📜 Tabla de Contenidos
+![License](https://img.shields.io/badge/License-MIT-yellow.svg) 
+## 📜 Tabla de Contenidos
 
 * [Introducción](#-introducción)
 * [Problema y Motivación](#-problema-y-motivación)
