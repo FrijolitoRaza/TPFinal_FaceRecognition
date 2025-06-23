@@ -16,6 +16,7 @@ env/
 *.bak
 
 # Archivos generados por el proyecto
+*.csv
 attendance.csv           # Archivo de registro de asistencia cam
 attendance_video.csv     # Archivo de registro de asistencia video
 
