@@ -16,7 +16,8 @@ env/
 *.bak
 
 # Archivos generados por el proyecto
-attendance.csv # Archivo de registro de asistencia
+attendance.csv           # Archivo de registro de asistencia cam
+attendance_video.csv     # Archivo de registro de asistencia video
 
 # Archivos del sistema operativo
 .DS_Store # macOS
@@ -34,3 +35,9 @@ desktop.ini # Windows
 # o si hubiera alguno que fuera externo y grande:
 # *.dat
 # *.weights
+
+# Archivos de trabajo local
+IMG/
+IMGV/
+VideoIn/
+VideoOut/
